@@ -33,6 +33,8 @@ Try out the DEMO here
 
 ![image](https://github.com/hurshh/Flutter-drawing-board/assets/75796695/7d60938b-16ac-418a-95fc-a241406047dd)
 
+![image](https://github.com/hurshh/Flutter-drawing-board/assets/75796695/79363b36-2bd4-4b0d-98d1-b2b82230c567)
+
 
 ## 🤓 Author(s)
 
