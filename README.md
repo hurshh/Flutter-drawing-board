@@ -31,6 +31,9 @@ Try out the DEMO here
 
 <img src="assets/screenshots/ss1.png"/>
 
+![image](https://github.com/hurshh/Flutter-drawing-board/assets/75796695/7d60938b-16ac-418a-95fc-a241406047dd)
+
+
 ## 🤓 Author(s)
 
 Harsh Rao
